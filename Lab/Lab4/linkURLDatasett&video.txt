@@ -1,0 +1,5 @@
+Datasett:
+https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
+
+Video:
+https://drive.google.com/file/d/1weX4SOdA05JEPJ-IU2nLJjDIny4FqjHJ/view?usp=sharing
