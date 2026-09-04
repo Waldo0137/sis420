@@ -1,0 +1,5 @@
+Datasett:
+https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000
+
+Video:
+https://drive.google.com/file/d/16r6iJ7d-dxYqPKoqF2kjHj2tR8M_WWZ-/view?usp=sharing
