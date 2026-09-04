@@ -1,0 +1,5 @@
+Video:
+https://drive.google.com/file/d/1-4J3QUIToREkFuT_XVmd5Qm9j12k3Jqx/view?usp=sharing
+
+Datasett:
+https://archive.ics.uci.edu/dataset/304/blogfeedback?spm=a2ty_o01.29997173.0.0.17e655fb1lPN7h
